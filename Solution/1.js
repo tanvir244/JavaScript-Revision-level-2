@@ -1,7 +1,7 @@
 // task-1
-// const multiply = (a, b, c) => a + b + c;
-// const result = multiply(1, 2, 3);
-// console.log(result);
+const multiply = (a, b, c) => a + b + c;
+const result = multiply(1, 2, 3);
+console.log(result);
 
 // task-2
 const multipleLine = 'I am a Web Developer.\n' + 'I love to code.\n' + 'I love to eat Biriyani.';
